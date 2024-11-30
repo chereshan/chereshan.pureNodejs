@@ -1,0 +1,24 @@
+{
+  "name": "chereshan.purenodejs",
+  "version": "1.0.0",
+  "description": "example ptoject on pure nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chereshan/chereshan.pureNodejs.git"
+  },
+  "keywords": [
+    "node",
+    "chereshan",
+    "pure"
+  ],
+  "author": "Chernyshev Egor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chereshan/chereshan.pureNodejs/issues"
+  },
+  "homepage": "https://github.com/chereshan/chereshan.pureNodejs#readme"
+}
